@@ -8,5 +8,6 @@ public class Main {
         n.setApelido("Pain");
         n.setRenegado(true);
         n.getKg().add(r);
+        System.out.println(n.getApelido());
     }
 }
