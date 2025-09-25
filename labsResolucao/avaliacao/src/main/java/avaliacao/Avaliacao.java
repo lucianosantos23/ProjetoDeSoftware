@@ -1,4 +1,4 @@
-package lab1;
+package avaliacao;
 
 public class Avaliacao {
     private int matricula;
